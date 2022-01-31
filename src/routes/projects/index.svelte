@@ -35,7 +35,7 @@
 />
 
 <h1 class="font-bold mb-20 text-center text-5xl">
-  Recent Projects by Me
+  Recent Projects
 </h1>
 
 <div
